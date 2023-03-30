@@ -1,5 +1,5 @@
 h1 {
-    color: darkred;
+    color: aqua;
 }
  
 .d {
@@ -13,26 +13,47 @@ h1 {
 }
 
 #h31 {
-    color: brown;
+    color: darkmagenta;
 }
 
 #h32 {
-    color: brown; 
+    color: darkmagenta; 
 }
 
 #h33 {
-    color: red;
+    color: darkorchid;
 }
 
 #h34 {
-    color: red;
+    color: darkorchid;
 }
 
 
 #h35 {
-    color: orangered;
+    color: violet;
 }
 
 #h36 {
-    color: orangered;
+    color: violet;
+}
+
+li {
+    color: aqua;
+}
+
+h3 {
+    color: aquamarine;
+}
+
+*{
+    background-color: black;
+}
+
+div p {
+    color: aqua;
+    height: min-content;
+}
+
+div > p {
+    color: goldenrod;
 }
