@@ -72,3 +72,10 @@ h3 {
     border-bottom-style: groove;
     border-bottom-color: aqua;
 }
+
+.go {
+    border-radius: 10px, 20px;
+    color: purple;
+    width:300px;
+    height:100px;
+}
