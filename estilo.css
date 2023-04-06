@@ -59,9 +59,9 @@ div > p {
 }
 
 h3 {
-    border-style: groove;
+    border-radius: 10px, 20px;
     border-color: aqua;
-    border-bottom-style: groove;
+    border-bottom-left-radius: 10px, 20px;
     border-bottom-color: rgb(146, 37, 197);
     border-left-color: rgb(12, 127, 221);
     border-right-color: rgb(12, 127, 221);
