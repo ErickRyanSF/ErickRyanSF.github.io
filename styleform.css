@@ -1,5 +1,15 @@
-* {
+body {
     color: rgb(25, 255, 236);
     background-color: rgb(26, 26, 26);
 }
 
+.c {
+    color: rgb(228, 37, 142);
+}
+
+.b {
+    background-color: rgb(26, 26, 26);
+    color:  rgb(25, 255, 236);
+    border-style: groove;
+    border-color: rgb(25, 255, 236);
+}
